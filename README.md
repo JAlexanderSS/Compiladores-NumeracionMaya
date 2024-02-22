@@ -25,7 +25,7 @@ El orden a utilizar en cada uno de los niveles respecto al uso del cero, punto y
 
 1. Comenzaremos llenando cada nivel en el con el siguiente orden: raya, punto, cero. Esto segun el numero que quiera representar, considerando el uso de rayas, puntos y ceros que sean necesarios, siempre y cuando se respete la cantidad de simbolos necesarios para formular un numero.
 2. Al finalizar cada nivel, se deberá colocar el símbolo `|` para indicar que se ha completado ese nivel. Este patrón se repetirá hasta llegar al último nivel, donde también se utilizará el símbolo `|`. Este último `|` no solo marcará el final del nivel, sino que representará el final completo del número maya.
-3. El programa leerá los números mayas en un orden específico: de arriba hacia abajo. Se tomará el primer dato leído, dividiéndolo de izquierda a derecha. Este primer dato se considerará como el nivel más alto en la representación del número maya
+3. El programa leerá los niveles de los números mayas en un orden específico: de arriba hacia abajo. Se tomará el primer grupo de simbolos como el nivel superior, y asi sucesivamente hasta llegar al último nivel.
 4. El llenado de cada nivel se llevará a cabo siguiendo el orden de los símbolos: primero `-`, segundo `.` y tercero `0`. La elección de cada símbolo dependerá de la necesidad en la representación del número maya. Es esencial tener en cuenta que el programa leerá los símbolos de izquierda a derecha, lo que implica que los símbolos con un valor más alto deben ingresarse primero, ya que se interpretarán como el valor ubicado más abajo en el nivel que esta siendo analizado.
 
 ## Ejemplos de como ingresar los numeros
