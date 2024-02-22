@@ -54,3 +54,10 @@ El archivo debera de llamarse `numeros.txt` y su contenido debera ser similar al
 ```txt
  --.| ...|---....| .|0 ...|-....| .|--|0| .|-....|0| -....|.|-....|0| 
 ```
+
+## Esto lo validaremos con la siguiente expresion regular
+```regex
+^((([-]{1,4})?([.]{1,4})?[0]?[|])|((([.]{1,4})([0])?[|]))|([0][|]))*$
+```
+
+Cabe mencionar que esta expresion regular cuenta con unos inconvenientes, ya que no valida por completo la validez de la numeracion maya, por lo que se debera de realizar una validacion adicional mediante el manejo de los tokens.
