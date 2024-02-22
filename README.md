@@ -6,7 +6,8 @@ El compilador debera de reconcoer si un numero pertenece a la numeracion maya, e
 ## Comprensión de la numeración maya
 
 > La numeración maya es un sistema de numeración vigesimal, es decir, de base 20, que se utilizaba en la civilización maya. Se basa en el uso de puntos, rayas y el caracol, y cada número se representa mediante un conjunto de estos simbolos que se agrupan en bloques. Los mayas utilizaban un sistema de numeración posicional, es decir, el valor de cada símbolo depende de su posición en el número.
-![imagen](https://nemdigitalstorage.blob.core.windows.net/nem-main/images/2023/05/27/259f2209-0cf5-464a-a0ea-237efdb23cbe.png)
+
+>![imagen](https://nemdigitalstorage.blob.core.windows.net/nem-main/images/2023/05/27/259f2209-0cf5-464a-a0ea-237efdb23cbe.png)
 
 ## Forma de ingresar los numeros dentro del archivo
 
@@ -29,22 +30,22 @@ El orden a utilizar en cada uno de los niveles respecto al uso del cero, punto y
 
 ## Ejemplos de como ingresar los numeros
 
-Siguiendo las instrucciones dadas anteriormente, al querer ingresar el siguiente numero que graficamente se ve de esta manera, se debe de ingresar como se muestra a continuacion:
+>Siguiendo las instrucciones dadas anteriormente, al querer ingresar el siguiente numero que graficamente se ve de esta manera, se debe de ingresar como se muestra a continuacion:
 
-![imagen](https://raw.githubusercontent.com/JAlexanderSS/Compiladores-NumeracionMaya/main/img/ocho.png)
+>![imagen](https://raw.githubusercontent.com/JAlexanderSS/Compiladores-NumeracionMaya/main/img/ocho.png)
 ```txt
  -...|
 ```
 
-Tenemos el siguiente numero que graficamente se ve de esta manera, se debe de ingresar como se muestra a continuacion:
+>Tenemos el siguiente numero que graficamente se ve de esta manera, se debe de ingresar como se muestra a continuacion:
 
-![imagen](https://raw.githubusercontent.com/JAlexanderSS/Compiladores-NumeracionMaya/main/img/18.png)
+>![imagen](https://raw.githubusercontent.com/JAlexanderSS/Compiladores-NumeracionMaya/main/img/18.png)
 ```txt
  ---...|
 ```
-El siguiente numero que graficamente consta de dos niveles, se debe de ingresar de la siguiente manera:
+>El siguiente numero que graficamente consta de dos niveles, se debe de ingresar de la siguiente manera:
 
-![imagen](https://raw.githubusercontent.com/JAlexanderSS/Compiladores-NumeracionMaya/main/img/399_maya-102x300.png)
+>![imagen](https://raw.githubusercontent.com/JAlexanderSS/Compiladores-NumeracionMaya/main/img/399_maya-102x300.png)
 ```txt
  ---....|---....|
 ```
